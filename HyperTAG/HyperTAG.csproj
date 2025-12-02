@@ -7,6 +7,10 @@
         <Version>1.0.0.0</Version>
         <Title>HyperTAG</Title>
         <Authors>YELANDAOKONG</Authors>
+        <PackageProjectUrl>https://github.com/YELANDAOKONG/HyperTAG</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/YELANDAOKONG/HyperTAG</RepositoryUrl>
+        <PackageLicenseUrl>https://github.com/YELANDAOKONG/HyperTAG/raw/refs/heads/master/LICENSE</PackageLicenseUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
